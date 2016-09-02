@@ -5,7 +5,7 @@
 //  Created by Daniel on 16/6/28.
 //  Copyright © 2016年 Daniel. All rights reserved.
 //
-#import <3rdPartySDK/WXApi.h>
+#import "WXApi.h"
 
 #import "DDWechatAuthInterface.h"
 

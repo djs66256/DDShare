@@ -6,7 +6,7 @@
 //  Copyright © 2016年 Daniel. All rights reserved.
 //
 
-#import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
 
 typedef NS_ENUM (NSInteger, DDShareType) {
     DDShareTypeUndefined = 0,

@@ -1,0 +1,22 @@
+PODS:
+  - MOBFoundation (2.0.10)
+  - WeiboSDK (3.1.4)
+
+DEPENDENCIES:
+  - MOBFoundation
+  - WeiboSDK (from `https://github.com/sinaweibosdk/weibo_ios_sdk.git`)
+
+EXTERNAL SOURCES:
+  WeiboSDK:
+    :git: https://github.com/sinaweibosdk/weibo_ios_sdk.git
+
+CHECKOUT OPTIONS:
+  WeiboSDK:
+    :commit: 6031a8da4ce17867ff5887b8dfc59ea45930274e
+    :git: https://github.com/sinaweibosdk/weibo_ios_sdk.git
+
+SPEC CHECKSUMS:
+  MOBFoundation: be1a5556482800c5c3515f8fbd32770a6622bd42
+  WeiboSDK: bceab625ec59b7039ba721cc4ba9f5868804f63e
+
+COCOAPODS: 0.39.0

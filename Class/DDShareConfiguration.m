@@ -7,7 +7,7 @@
 //  Copyright © 2016年 Daniel. All rights reserved.
 //
 #import <WeiboSDK/WeiboSDK.h>
-#import <3rdPartySDK/WXApi.h>
+#import "WXApi.h"
 #import <TencentOpenAPI/TencentOAuth.h>
 
 #import "DDShareConfiguration.h"

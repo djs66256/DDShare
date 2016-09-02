@@ -6,7 +6,7 @@
 //  Copyright © 2016年 Daniel. All rights reserved.
 //
 
-#import <3rdPartySDK/WXApi.h>
+#import "WXApi.h"
 
 #import "DDShareInterface.h"
 
